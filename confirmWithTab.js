@@ -43,9 +43,7 @@
  *
  * @license
  *   The MIT License, Copyright (c) 2010-2011 YUKI "Piro" Hiroshi
- *   http://github.com/piroor/fxaddonlibs/blob/master/license.txt
- * @url http://github.com/piroor/fxaddonlibs/blob/master/confirmWithTab.js
- * @url http://github.com/piroor/fxaddonlibs
+ * @url http://github.com/piroor/fxaddonlib-confirm-tab
  */
 
 if (typeof window == 'undefined')
