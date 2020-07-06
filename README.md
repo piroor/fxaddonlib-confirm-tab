@@ -1,4 +1,6 @@
-# Tab Related Confirmation Library for Firefox 3.5 or later
+# Tab Related Confirmation Library for Firefox 3.5-56
+
+This project is obsolete and not maintained anymore.
 
 ## Usage:
 
